@@ -1,0 +1,32 @@
+/* .note{
+    background-color: bisque;
+    height: 150px;
+
+} */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: aliceblue;
+}
+
+.heading {
+    background-color: yellow;
+}
+
+.btn {
+    position: absolute;
+    top: 70px;
+    right: 30px;
+    padding: 6px 10px;
+    font-size: 16px;
+    background-color: yellow;
+    border-radius: 6px;
+}
+textarea{
+    height: 100px;
+    width: 300px;
+}
